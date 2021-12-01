@@ -1,1 +1,1 @@
-web:node mypro
+web: node index.js
