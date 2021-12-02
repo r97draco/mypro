@@ -1,6 +1,6 @@
 import "./style.css";
 
-import * as THREE from "three";
+import * as THREE from "https://unpkg.com/three/build/three.module.js";
 
 // var TDSLoader = require('three-tds-loader')(THREE);
  
